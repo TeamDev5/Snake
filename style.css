@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    text-align:center;
+    justify-content: center;
+    background-color: antiquewhite;
+  }
+  canvas {
+    border: 2px solid rgb(47, 0, 0);
+  }
+  
